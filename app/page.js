@@ -1,10 +1,9 @@
 import React from 'react'
+import Form from './Form.js'
 
 function page() {
   return (
-    <div>
-      <p>hello word  and write code here</p>
-    </div>
+  		<Form/>
   )
 }
 
